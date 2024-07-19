@@ -1,0 +1,9 @@
+# Ignore environment configuration file
+.env
+
+# Ignore the vendor directory
+/vendor
+
+# Ignore composer lock file (optional)
+composer.lock
+composer.json
